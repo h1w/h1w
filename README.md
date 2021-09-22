@@ -15,8 +15,10 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1w&layout=compact&theme=github_dark" />
   <br>
 </a>
-
 <br/>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=h1w alt=h1w /> </p>
+
+
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white)
