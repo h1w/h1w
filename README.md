@@ -6,9 +6,9 @@
 - :purple_heart: Stack: Python, C/C++(also Qt), Go, Linux<img height="20" width="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/distributor-logo-archlinux-icon.png" /> <img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wayland_Logo.svg/266px-Wayland_Logo.svg.png" />
 - :bust_in_silhouette: I code as needed
 
-> :octocat: [opencyb.com](https://opencyb.com/articles/) <i>(company site)</i>
+> :octocat: [b-peq.ru](https://b-peq.ru) <i>(my website)</i>
 
-> :octocat: [rach.gq](https://rach.gq/p) <i>(proxy)</i>
+> :octocat: [proxy.b-peq.ru](https://proxy.b-peq.ru) <i>(proxy)</i>
 
 ### Github Stats
   
