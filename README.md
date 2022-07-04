@@ -1,6 +1,6 @@
 ## :tv: h1w 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/titaniumbee)](https://t.me/titaniumbee) [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/16967128/h1w?tab=profile)](https://stackoverflow.com/users/16967128/h1w?tab=profile) [![DEV Badge](https://img.shields.io/badge/-DEV-black?style=for-the-badge&logo=Dev.to&logoColor=white&link=https://dev.to/h1w)](https://dev.to/h1w) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bpqvgq@gmail.com)](mailto:bpqvgq@gmail.com)
-### Hi <img src="https://github.com/h1w/h1w/raw/main/hi.gif" width="22px"> About me
+### Hi <img src="https://github.com/h1w/h1w/raw/main/hi.gif" width="22px" height="22px"> About me
 
 - :mortar_board: Student
 - :purple_heart: Stack: Python, C/C++(also Qt), Go, Linux<img height="20" width="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/distributor-logo-archlinux-icon.png" /> <img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wayland_Logo.svg/266px-Wayland_Logo.svg.png" />
