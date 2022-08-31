@@ -37,4 +37,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) <!-- separator -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-JS.svg?style=flat-square&logo=react&logoColor=blue) <!-- separator -->
+![ReactJS](https://img.shields.io/badge/React-JS.svg?style=flat-square&logo=react&logoColor=white) <!-- separator -->
