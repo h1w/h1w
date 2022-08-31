@@ -22,26 +22,19 @@
 
 
 
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-darkgreen.svg?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white) <!-- separator -->
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white) <!-- separator -->
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-![Arch](https://img.shields.io/badge/Archlinux-blue.svg?style=flat-square&logo=archlinux&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A.svg?style=flat-square&logo=gentoo&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat-square&logo=raspberrypi&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) <!-- separator -->
+![Arch](https://img.shields.io/badge/Archlinux-blue.svg?style=flat-square&logo=archlinux&logoColor=white) <!-- separator -->
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-blue.svg?style=flat-square&logo=postgresql&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-green.svg?style=flat-square&logo=FFmpeg&logoColor=white) <!-- separator -->
+![PostgreSQL](https://img.shields.io/badge/postgresql-blue.svg?style=flat-square&logo=postgresql&logoColor=white) <!-- separator -->
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat-square&logo=cloudflare&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=flat-square&logo=PowerShell&logoColor=white) <!-- separator -->
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=flat-square&logo=HackTheBox&logoColor=white) <!-- separator -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white) <!-- separator -->
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) <!-- separator -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white) <!-- separator -->
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
+![ReactJS] (https://img.shields.io/badge/React-JS.svg?style=flat-square&logo=react&logoColor=blue) <!-- separator -->
