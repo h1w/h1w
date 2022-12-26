@@ -3,7 +3,7 @@
 ### Hi <img src="https://github.com/h1w/h1w/raw/main/hi.gif" width="22px" height="22px"> About me
 
 - :mortar_board: Student
-- :purple_heart: Stack: Python, C/C++(also Qt), Go, Linux<img height="20" width="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/distributor-logo-archlinux-icon.png" /> <img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wayland_Logo.svg/266px-Wayland_Logo.svg.png" />
+- :purple_heart: Stack: Python, C/C++(also Qt), Linux<img height="20" width="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/distributor-logo-archlinux-icon.png" /> <img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wayland_Logo.svg/266px-Wayland_Logo.svg.png" />
 - :bust_in_silhouette: Contact me any ideas
 
 > :octocat: [b-peq.ru](https://b-peq.ru) <i>(my website)</i>
