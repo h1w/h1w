@@ -1,5 +1,5 @@
 ## :tv: h1w 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/sampdll)](https://t.me/sampdll) [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/16967128/h1w?tab=profile)](https://stackoverflow.com/users/16967128/h1w?tab=profile) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bpqvgq@gmail.com)](mailto:bpqvgq@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/sampdll)](https://t.me/vadomchik) [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/16967128/h1w?tab=profile)](https://stackoverflow.com/users/16967128/h1w?tab=profile)
 
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=Hello+there!!!)](https://t.me/sampdll)
